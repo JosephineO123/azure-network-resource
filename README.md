@@ -1,4 +1,4 @@
-# Creating a Subscription and Resource Group in Microsoft Azure and a Storage Account inside the Resource Group <p align="center">
+# Creating a Resource Group in Microsoft Azure and a Virtual Machine inside the Resource Group <p align="center">
 
 <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png" alt="Azure logo"/>
 </p>
