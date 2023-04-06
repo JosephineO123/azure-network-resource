@@ -7,7 +7,7 @@
 This tutorial outlines the process of creating a Resource Group in Microsoft Azure and a Virtual Machine inside the Resource Group.<br />
 
 
-<h2>Environments and Technologies Used</h2>
+<h2>Environments Used</h2>
 
 - Microsoft Azure
 - Virtual Platform
@@ -16,6 +16,10 @@ This tutorial outlines the process of creating a Resource Group in Microsoft Azu
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
+
+<h2>Applications Used </h2>
+
+- Azure Virtual Machine
 
 
 <h2>Installation Steps</h2>
