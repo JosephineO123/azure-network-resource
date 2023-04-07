@@ -28,7 +28,7 @@ This tutorial outlines the process of creating a Resource Group in Microsoft Azu
 <img src="https://i.imgur.com/W48hOZ7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Search for resource group in the search bar in azure
+Search for resource group in the search bar in Azure.
 </p>
 <br />
 
@@ -68,7 +68,7 @@ Begin creating Virtual Machine within the resource group created, choose Windows
 <img src="https://i.imgur.com/XH075BK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Choose a username and password that will be easy to remember. 
+Choose Standard 4vcpu as the size and pick a username and password that will be easy to remember.
 </p>
 <br />
 
